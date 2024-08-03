@@ -9,6 +9,9 @@ function App() {
   return (
    <div className="App">
     <h1>Hello Word</h1>
+   <h2>javascript</h2>
+   <h1>hello word</h1>
+   <h3>otavio</h3>
 
    </div>
     
