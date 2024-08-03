@@ -2,12 +2,12 @@ import './App.css';
 import FirstComponents from './componets/FirstComponents'
 // import FirstComponents from './componets/FirstComponent'
 
-function App() {
+ function App() {
  
 
   return (
     
-      <div>
+      <div className='App'>
         <h1>Fundamentos do react</h1>
         <FirstComponents/>
       </div>
