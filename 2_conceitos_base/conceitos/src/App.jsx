@@ -1,6 +1,7 @@
 import './App.css';
+// 2 - importando componente
+
 import FirstComponents from './componets/FirstComponents'
-// import FirstComponents from './componets/FirstComponent'
 
  function App() {
  
@@ -10,8 +11,11 @@ import FirstComponents from './componets/FirstComponents'
       <div className='App'>
         <h1>Fundamentos do react</h1>
         <FirstComponents/>
+
+        {/*template expression */}
+
       </div>
-    
+
     
   )
 }
